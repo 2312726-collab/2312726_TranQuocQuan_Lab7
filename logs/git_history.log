@@ -1,0 +1,6 @@
+﻿* cf28c4b - 2312726 - Tran Quoc Quan (Fri Oct 16 15:52:31 2026 +0700): docs: add local test and git history logs (Tiet 4)
+* 841fbed - 2312726 - Tran Quoc Quan (Fri Oct 16 15:51:44 2026 +0700): ci: add step 6 upload html coverage report artifact (Tiet 4)
+* 4132765 - 2312726 - Tran Quoc Quan (Fri Oct 16 15:51:27 2026 +0700): test: add promo code validation and gps mocking tests to pass quality gate (Tiet 3 - Green Build)
+* cccaecf - 2312726 - Tran Quoc Quan (Fri Oct 16 15:51:07 2026 +0700): ci: enforce flake8 linter and 80% coverage quality gate (Tiet 3 - Red Build)
+* b6e777b - 2312726 - Tran Quoc Quan (Fri Oct 16 15:50:51 2026 +0700): ci: setup basic github actions pipeline without quality gates (Tiet 2)
+* 7d04750 - 2312726 - Tran Quoc Quan (Fri Oct 16 15:50:34 2026 +0700): feat: initialize YummyApp mobile backend with basic order tests (Tiet 1)
